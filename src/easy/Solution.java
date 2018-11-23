@@ -2,7 +2,7 @@ package easy;
 
 import java.util.Arrays;
 
-public class Leet806 {
+public class Solution {
 
     public static void main(String[] args) {
         int[]  widths = {10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10};
