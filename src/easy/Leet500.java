@@ -1,5 +1,7 @@
 package easy;
 
+import com.sun.org.apache.xpath.internal.operations.String;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,20 +16,21 @@ public class Leet500 {
         char[] row_3 = {'Z', 'X', 'C', 'V', 'B', 'N', 'M'};
         List<String> lsit = new ArrayList<>();
 
-        for (String item : words) {
-            String upperItem = item.toUpperCase();
-            char c = upperItem.charAt(0);
-            if (contains(c, row_1)) {
-                for (char symbol : upperItem.toCharArray()) {
-                    int i
-                    if (!contains(symbol, row_1)) {
-                        break;
-                    }
-                }
-            }
-        }
-
+//        for (String item : words) {
+//            String upperItem = item.toUpperCase();
+//            char c = upperItem.charAt(0);
+//            if (contains(c, row_1)) {
+//                for (char symbol : upperItem.toCharArray()) {
+//                    if (!contains(symbol, row_1)) {
+//                        break;
+//                    }
+//                }
+//            }
+//        }
+        return null;
     }
+
+
 
 
     boolean contains(char c, char[] chars) {
