@@ -24,7 +24,8 @@ Challenge for solving task and improve programming skills
  821 solve with Help
  944
 
-##04.04.2019 
+## 04.04.2019 
+
 Solving task was pausing time, 
 I can't give enough time for solving tasks.  
 because I was working in 2 work it was very difficult I 
