@@ -11,7 +11,7 @@ public class Leet589 {
 
 
     public List<Integer> preorder(Node root) {
-
+        return null;
     }
 
 
