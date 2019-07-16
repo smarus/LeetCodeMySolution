@@ -6,6 +6,7 @@ public class Leet1089 {
 
     public static void main(String[] args) {
         int[] array = new int[]{1, 0, 2, 3, 0, 4, 5, 0};
+        //  int[] array = new int[]{1,2,3};
         duplicateZeros(array);
         for (int a : array) {
             System.out.println(a);
@@ -16,12 +17,13 @@ public class Leet1089 {
         int[] B = new int[arr.length];
         Arrays.fill(B, 0);
         int i = 0;
-        while (i < arr.length - 1) {
+        int i2 = 0;
+        while (i2 < arr.length) {
             if (arr[i] != 0) {
-                B[i] = arr[i];
-                i++;
+                B[i2++] = arr[i++];
             } else {
-                i += 2;
+                i2 += 2;
+                i++;
             }
         }
 
