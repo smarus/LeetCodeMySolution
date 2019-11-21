@@ -31,3 +31,12 @@ I can't give enough time for solving tasks.
 because I was working in 2 work it was very difficult I 
 continue solving tasks very detailed.
 
+## 21.11.2019 
+I changed work that's I cannot solve task in takes some time.
+Decided to solve everyday minimum 5 tasks 
+from 21.11.2019  to 21.12.2019 150 should be done and and finish 
+algorithm course in every weekends 
+
+##21.11.2019
+1013 solved with Discusions  - learned to look good in detail (Evil hides into detail)
+
