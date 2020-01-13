@@ -37,6 +37,11 @@ Decided to solve everyday minimum 5 tasks
 from 21.11.2019  to 21.12.2019 150 should be done and and finish 
 algorithm course in every weekends 
 
-##21.11.2019
+##21.11.2019 - 21.12.2019
 1013 solved with Discusions  - learned to look good in detail (Evil hides into detail)
+
+##13.01.2020 
+Why I am so lazy a lot pauses because I"m gamer I hate this side 
+Leet287 solved by myself
+
 
