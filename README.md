@@ -44,4 +44,7 @@ algorithm course in every weekends
 Why I am so lazy a lot pauses because I"m gamer I hate this side 
 Leet287 solved by myself
 
+##29.01.2020
+896 283 349 1317 486 169 487
+
 
