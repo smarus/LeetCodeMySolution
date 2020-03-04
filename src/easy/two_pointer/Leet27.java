@@ -23,6 +23,7 @@ public class Leet27 {
         }
         return len;
     }
+}
 
 //    public static int removeElement(int[] nums, int val) {
 //        int j = nums.length -1 ;
