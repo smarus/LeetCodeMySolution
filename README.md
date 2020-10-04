@@ -51,3 +51,8 @@ Leet287 solved by myself
 ##31.01.2020
 35, 67 258 , 459 -- progress
 
+##04.10.2020
+1528 -- Solved without help
+1486 -- Solved without help
+1290 -- Solved without help
+1365 -- Solved without help

@@ -3,8 +3,8 @@ package yandex_contest;
 import java.io.*;
 
 public class Solution {
-    private static final String FILE_INPUT = "/Users/ruslakur/IdeaProjects/LeetCodeMySolution/src/yandex_contest/input.txt";
-    private static final String FILE_OUTPUT = "/Users/ruslakur/IdeaProjects/LeetCodeMySolution/src/yandex_contest/output.txt";
+    private static final String FILE_INPUT = "/Users/macbookpro/IdeaProjects/LeetCodeMySolution/src/yandex_contest/input.txt";
+    private static final String FILE_OUTPUT = "/Users/macbookpro/IdeaProjects/LeetCodeMySolution/src/yandex_contest/output.txt";
     private static BufferedReader bufferedReader = null;
     private static BufferedWriter bufferedWriter = null;
 
@@ -48,11 +48,11 @@ public class Solution {
         for (int i = 0; i < string.length(); i++) {
             if (string.charAt(i) == ' ') {
                 endNumber = i;
-                array[count] = Integer.parseInt(string.substring(beginNumber, endNumber));
+                array[count] = Integer.parseUnsignedInt(string.substring(beginNumber, endNumber));
                 count++;
                 beginNumber = endNumber + 1;
             } else if (i == string.length() - 1) {
-                array[count] = Integer.parseInt(string.substring(beginNumber, string.length()));
+                array[count] = Integer.parseUnsignedInt(string.substring(beginNumber, string.length()));
             }
         }
 
