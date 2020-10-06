@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f68c0d4-5290-4c6d-9d3c-4bce41a91668" name="Default" comment="Added last task which i solved">
-      <change afterPath="$PROJECT_DIR$/src/aquarium/buildings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex_contest/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex_contest/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex_contest/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex_contest/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex_contest/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_list/AuxUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_list/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_list/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_list/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/hashing/Leet1078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/hashing/Leet290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/hashing/Leet49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet1047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet921.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aquarium/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aquarium/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/easy/linked_list/Leet21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/linked_list/Leet237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet237.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/linked_list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/linked_list/ListNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,20 +86,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution3">
+  <component name="RunManager" selected="Application.Convert">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet237" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.linked_list.Leet237" />
+    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linked_list.Convert" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.linked_list.*" />
+          <option name="PATTERN" value="Linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.hashing.Leet290" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.hashing.Leet49" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.stack.Leet739" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,40 +150,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yandex_contest.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Linked_list.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yandex_contest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yandex_contest.Solution2" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yandex_contest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yandex_contest.Solution3" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yandex_contest.*" />
+          <option name="PATTERN" value="Linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +172,6 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aquarium.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aquarium.MainKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,19 +195,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leet237" />
+      <item itemvalue="Application.Leet739" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution2" />
-      <item itemvalue="Kotlin.aquarium.MainKt" />
-      <item itemvalue="Application.Solution3" />
+      <item itemvalue="Application.Leet49" />
+      <item itemvalue="Application.Leet290" />
+      <item itemvalue="Application.Convert" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Convert" />
+        <item itemvalue="Application.Leet290" />
+        <item itemvalue="Application.Leet49" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Kotlin.aquarium.MainKt" />
-        <item itemvalue="Application.Leet237" />
+        <item itemvalue="Application.Leet739" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583346056162</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added last task which i solved">
+      <created>1590925581324</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590925581324</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -473,6 +495,46 @@
           <line>31</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Linked_list/MyLinkedList.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/linked_list/Leet83.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Linked_list/MyLinkedList.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Linked_list/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/stack/Leet1047.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/linked_list/Leet21.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/stack/Leet155.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/stack/Leet739.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/easy/binara_search/Leet367.java</url>
           <line>3</line>
@@ -501,12 +563,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="timesAndDomain" language="JAVA" />
-        <watch expression="timesAndDomain[1].split(&quot;.&quot;)" language="JAVA" />
-        <watch expression="subStrLen" language="JAVA" />
-        <watch expression="count" language="JAVA" />
-        <watch expression="checkSubString(stringBuilder.toString(),sb.toString())" language="JAVA" />
-        <watch expression="Character.getNumericValue('2')" language="JAVA" />
+        <watch expression="dummy.next" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

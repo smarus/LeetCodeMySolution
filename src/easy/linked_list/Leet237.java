@@ -18,11 +18,11 @@ public class Leet237 {
         for (ListNode x = head; x != null; x = head.next) {
             System.out.println(x.val);
         }
-
     }
-//Stupid and unclear question
-//    public static void deleteNode(ListNode node) {
-//        ListNode prev  = null;
-//        ListNode current =
-//    }
+
+
+    public static void deleteNode(ListNode node) {
+        node.val = node.next.val;
+        node.next = node.next.next;
+    }
 }
