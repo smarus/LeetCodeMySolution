@@ -60,3 +60,5 @@ Leet287 solved by myself
 1221 -- Solved with hints
 804 ---Solved without help
 1389 -- Solved without help
+##06.10.2020
+1295 - Solved without help
