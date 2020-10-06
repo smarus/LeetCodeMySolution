@@ -47,19 +47,16 @@ Leet287 solved by myself
 ##29.01.2020
 896 283 349 1317 486 169 487
 
+
 ##31.01.2020
 35, 67 258 , 459 -- progress
 
-Before I was using commits name to identify progress but better is README
-
-##02.07.2020
-1021-with help
-21 - I solved but my solution was wrong and find better way
-160 with help
-155
-203
-==
-I want measure my progress with emoji  first will be time 
-()
-
-
+##04.10.2020
+1528 -- Solved without help
+1486 -- Solved without help
+1290 -- Solved without help
+1365 -- Solved without help
+##05.10.2020
+1221 -- Solved with hints
+804 ---Solved without help
+1389 -- Solved without help
