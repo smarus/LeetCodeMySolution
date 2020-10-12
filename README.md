@@ -70,5 +70,7 @@ Leet287 solved by myself
 ##11.10.2020
 1588 - Solved with help
 412 - Solved without help
-
+##12.10.2020
+1351 - Too easy
+1572 - with help
 
