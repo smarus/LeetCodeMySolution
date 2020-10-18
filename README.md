@@ -73,4 +73,8 @@ Leet287 solved by myself
 ##12.10.2020
 1351 - Too easy
 1572 - with help
+##18.10.2020
+1051 Solved without help
+1450 Solved with hints(very stupid problem)
+
 
