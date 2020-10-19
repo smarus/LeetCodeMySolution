@@ -76,5 +76,8 @@ Leet287 solved by myself
 ##18.10.2020
 1051 Solved without help
 1450 Solved with hints(very stupid problem)
+##19.10.2020
+1374 Solved with hint
+1436 Solved with help
 
 
