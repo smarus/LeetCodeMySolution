@@ -79,5 +79,5 @@ Leet287 solved by myself
 ##19.10.2020
 1374 Solved with hint
 1436 Solved with help
-
-
+##20.10.2020
+121 solved with help(stays for future)
