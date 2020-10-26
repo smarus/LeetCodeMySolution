@@ -85,3 +85,7 @@ Leet287 solved by myself
 1464 solved with hints
 ##23.10.2020 
 617(Tree) solved wih help
+##26.10.2020
+589 (N-ary Tree Preorder Traversal) keep learning traverse
+169 (Majority Element) without hints and help
+

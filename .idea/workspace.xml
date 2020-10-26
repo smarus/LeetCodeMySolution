@@ -2,35 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f68c0d4-5290-4c6d-9d3c-4bce41a91668" name="Default" comment="Added last task which i solved">
-      <change afterPath="$PROJECT_DIR$/src/Linked_list/AuxUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linked_list/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linked_list/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linked_list/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linked_list/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/hashing/Leet1078.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/hashing/Leet290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/hashing/Leet49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet1021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet1047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/stack/Leet921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/bit_operation/Leet169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/tree/Leet589.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/linked_list/Leet21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/linked_list/Leet237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/linked_list/Leet237.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/linked_list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/linked_list/ListNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCode$Leet884.coverage" NAME="Leet884 Coverage Results" MODIFIED="1551173258717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -42,6 +28,7 @@
       <list>
         <option value="package-info" />
         <option value="Kotlin File" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -49,9 +36,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1TvkpEWgsnFD9quR927JHgN2cba" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -86,20 +77,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Convert">
+  <component name="RunManager" selected="Application.Leet617">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Linked_list.Convert" />
+    <configuration name="Leet1309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.string.easy.Leet1309" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Linked_list.*" />
+          <option name="PATTERN" value="easy.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.hashing.Leet290" />
+    <configuration name="Leet1351" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.arrays.Leet1351" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.hashing.*" />
+          <option name="PATTERN" value="easy.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.hashing.Leet49" />
+    <configuration name="Leet1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.string.easy.Leet1436" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.hashing.*" />
+          <option name="PATTERN" value="easy.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,13 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.stack.Leet739" />
+    <configuration name="Leet1572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.arrays.Leet1572" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.stack.*" />
+          <option name="PATTERN" value="easy.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,13 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Linked_list.Solution" />
+    <configuration name="Leet617" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.tree.Leet617" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Linked_list.*" />
+          <option name="PATTERN" value="easy.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,19 +186,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leet739" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Leet49" />
-      <item itemvalue="Application.Leet290" />
-      <item itemvalue="Application.Convert" />
+      <item itemvalue="Application.Leet1309" />
+      <item itemvalue="Application.Leet1351" />
+      <item itemvalue="Application.Leet1572" />
+      <item itemvalue="Application.Leet1436" />
+      <item itemvalue="Application.Leet617" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Convert" />
-        <item itemvalue="Application.Leet290" />
-        <item itemvalue="Application.Leet49" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Leet739" />
+        <item itemvalue="Application.Leet617" />
+        <item itemvalue="Application.Leet1436" />
+        <item itemvalue="Application.Leet1572" />
+        <item itemvalue="Application.Leet1351" />
+        <item itemvalue="Application.Leet1309" />
       </list>
     </recent_temporary>
   </component>
@@ -417,14 +408,70 @@
       <option name="project" value="LOCAL" />
       <updated>1583346056162</updated>
     </task>
-    <task id="LOCAL-00024" summary="Added last task which i solved">
-      <created>1590925581324</created>
+    <task id="LOCAL-00024" summary="[07.10.2020]">
+      <created>1602104914177</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1590925581324</updated>
+      <updated>1602104914177</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Today I tired only 1 task with my development">
+      <created>1602188200834</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602188200834</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added last task which i solved">
+      <created>1602453511154</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1602453511154</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added last task which i solved">
+      <created>1602537037194</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1602537037194</updated>
+    </task>
+    <task id="LOCAL-00028" summary="New problems">
+      <created>1603058015944</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603058015944</updated>
+    </task>
+    <task id="LOCAL-00029" summary="2 task very tired of work today">
+      <created>1603134197716</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1603134197716</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Just for me">
+      <created>1603230004217</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1603230004217</updated>
+    </task>
+    <task id="LOCAL-00031" summary="I have a lot of work at the moment fixing stupid bugs which was done not by me">
+      <created>1603312962708</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1603312962708</updated>
+    </task>
+    <task id="LOCAL-00032" summary="I'm very stupid because can't figure out simple thing">
+      <created>1603488861846</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1603488861846</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -457,8 +504,15 @@
     <MESSAGE value="my poor commit with 1 task" />
     <MESSAGE value="[31.01.2020] today was not bad" />
     <MESSAGE value="[03.02.2020] last task was very unexpected (443)" />
+    <MESSAGE value="[07.10.2020]" />
+    <MESSAGE value="Today I tired only 1 task with my development" />
     <MESSAGE value="Added last task which i solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added last task which i solved" />
+    <MESSAGE value="New problems" />
+    <MESSAGE value="2 task very tired of work today" />
+    <MESSAGE value="Just for me" />
+    <MESSAGE value="I have a lot of work at the moment fixing stupid bugs which was done not by me" />
+    <MESSAGE value="I'm very stupid because can't figure out simple thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="I'm very stupid because can't figure out simple thing" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -496,44 +550,19 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Linked_list/MyLinkedList.java</url>
-          <line>132</line>
-          <option name="timeStamp" value="17" />
+          <url>file://$PROJECT_DIR$/src/easy/string/easy/Leet1309.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/easy/linked_list/Leet83.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/src/easy/tree/Leet617.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Linked_list/MyLinkedList.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Linked_list/Solution.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/easy/stack/Leet1047.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/easy/linked_list/Leet21.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/easy/stack/Leet155.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/easy/stack/Leet739.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="35" />
+          <url>file://$PROJECT_DIR$/src/easy/tree/Leet617.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/easy/binara_search/Leet367.java</url>
@@ -563,7 +592,12 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="dummy.next" language="JAVA" />
+        <watch expression="timesAndDomain" language="JAVA" />
+        <watch expression="timesAndDomain[1].split(&quot;.&quot;)" language="JAVA" />
+        <watch expression="subStrLen" language="JAVA" />
+        <watch expression="count" language="JAVA" />
+        <watch expression="checkSubString(stringBuilder.toString(),sb.toString())" language="JAVA" />
+        <watch expression="Character.getNumericValue('2')" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
