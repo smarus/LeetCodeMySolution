@@ -88,4 +88,5 @@ Leet287 solved by myself
 ##26.10.2020
 589 (N-ary Tree Preorder Traversal) keep learning traverse
 169 (Majority Element) without hints and help
-
+##27.10.2020
+922(Array by parity)
