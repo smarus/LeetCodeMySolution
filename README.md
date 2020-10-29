@@ -90,3 +90,5 @@ Leet287 solved by myself
 169 (Majority Element) without hints and help
 ##27.10.2020
 922(Array by parity)
+##29.10.2020
+821 
