@@ -92,3 +92,7 @@ Leet287 solved by myself
 922(Array by parity)
 ##29.10.2020
 821 
+##31.10.2020
+1299 very stupid question
+876 Solved without help
+
