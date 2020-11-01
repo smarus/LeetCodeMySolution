@@ -95,4 +95,8 @@ Leet287 solved by myself
 ##31.10.2020
 1299 very stupid question
 876 Solved without help
+##1.11.2020
+637 Solved
+1207 Solved
+
 
