@@ -99,4 +99,6 @@ Leet287 solved by myself
 637 Solved
 1207 Solved
 ## One month result ->32 Problem in easy bad resultddd
-
+Second month starting 
+##12.11.2020
+3
