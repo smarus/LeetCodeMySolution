@@ -13,6 +13,7 @@ Challenge for solving task and improve programming skills
   ![](https://uwaterloo.ca/student-success/sites/ca.student-success/files/styles/body-500px-wide/public/uploads/images/hey-you-can-do-it_0.jpg?itok=2fwm2cXZ)
   
 # Task Done 
+
 #### 05.12.2018
  476,942,922
 #### 06.12.2018
@@ -102,3 +103,14 @@ Leet287 solved by myself
 Second month starting 
 ##12.11.2020
 3
+## 04.10.2020
+
+1528 -- Solved without help 1486 -- Solved without help 1290 -- Solved without help 1365 -- Solved without help
+
+## 05.10.2020
+
+1221 -- Solved with hints 804 ---Solved without help 1389 -- Solved without help
+
+## 28.10.2020
+
+Leet100 solved 
