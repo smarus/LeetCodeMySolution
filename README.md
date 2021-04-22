@@ -5,9 +5,9 @@ on LeetCode :
 
 Challenge for solving task and improve programming skills
 
-  - Solve task, Learning algorithms and data structure deeply
-  - Learning All design patterns 
-  - Learning Designing Systems
+- Solve task, Learning algorithms_coursera and data structure deeply
+- Learning All design patterns
+- Learning Designing Systems
   
   
   ![](https://uwaterloo.ca/student-success/sites/ca.student-success/files/styles/body-500px-wide/public/uploads/images/hey-you-can-do-it_0.jpg?itok=2fwm2cXZ)
@@ -103,6 +103,7 @@ Leet287 solved by myself
 Second month starting 
 ##12.11.2020
 3
+
 ## 04.10.2020
 
 1528 -- Solved without help 1486 -- Solved without help 1290 -- Solved without help 1365 -- Solved without help
@@ -113,4 +114,13 @@ Second month starting
 
 ## 28.10.2020
 
-Leet100 solved 
+Leet100 solved Solved tasks before I didn't include in README just pushing without writing.
+
+#### 2021
+
+Leet999, Leet1122,Leet1460,Leet706,Leet242,Leet100,Leet107,Leet872,Leet1475
+
+## 08.01.2020
+
+Leet1160 solved by myself
+

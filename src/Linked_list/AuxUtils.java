@@ -111,6 +111,11 @@ public class AuxUtils {
         }
     }
 
+    public static int b2s(byte... b) {
+        return ((0xFF & b[0]) << 8) | ((0xFF & b[1]));
+    }
+
+
     public static byte[] bxor(byte[] a, int b) {
         byte[] result = new byte[a.length];
         for (int i = 0; i < a.length; i++) {
