@@ -72,8 +72,7 @@ Leet287 solved by myself
 1588 - Solved with help
 412 - Solved without help
 ##12.10.2020
-1351 - Too easy
-1572 - with help
+1351 - Too leetcode.easy 1572 - with help
 ##18.10.2020
 1051 Solved without help
 1450 Solved with hints(very stupid problem)
@@ -99,7 +98,8 @@ Leet287 solved by myself
 ##1.11.2020
 637 Solved
 1207 Solved
-## One month result ->32 Problem in easy bad resultddd
+
+## One month result ->32 Problem in leetcode.easy bad resultddd
 Second month starting 
 ##12.11.2020
 3

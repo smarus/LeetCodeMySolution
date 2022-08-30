@@ -1,7 +1,7 @@
 package TreeTraverseExample;
 
 
-import easy.TreeNode;
+import leetcode.easy.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

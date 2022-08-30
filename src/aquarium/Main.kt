@@ -51,8 +51,11 @@ fun main() {
 //            }
 //        } }
 //    Thread.sleep(5000)
+    val i = 101
+    val d = 3.1415
+    val s = "32"
 
-
+    s.toInt()
     println("User hey")
     GlobalScope.launch {
         val user = getUser("101")
